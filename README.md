@@ -1,7 +1,7 @@
 # Who is navigator
 Conhecer quem são os seus utilizadores é importante para garantir uma boa experiência no seu webSite. Por isso achei interessante testar os meus conhecimentos e desenvolver uma class **PHP** para facilitar a identificação de navegadores, nesse momento, é possivel identificar 6 navegadores, **Google Chrome**, **Mozila Firefoz**, **Safari**, **EDGE**, **Microsoft Internet Explore**, **Opera**. É um projecto de código aberto e todas sugestões são bem vindas.
 
-<img src="https://github.com/aguinaldomavenda0/whoisnavigator/blob/9d1f298bd2cad26fc6f52b86ab10d47d9dd09b94/apresentation/whoisnavigator1.png"/>
+<img src="https://github.com/aguinaldomavenda0/whoisnavigator/blob/47824db086ea1100e34a0b3f2f7024909d7a2248/apresentation/whoisnavigator1.png"/>
 
 ### Como Usar ?
 Simples importe a class **Navigator** no seu código **PHP**, criar a sua instância e chamar a função __whoisnavigator__ passando como parâmetro o useragent do php.
