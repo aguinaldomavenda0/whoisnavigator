@@ -15,7 +15,7 @@ $agent = $_SERVER['HTTP_USER_AGENT'];
 
 ### O Resultado: 
 A função **whoisnavigator** retorna um objecto com os seguintes atributos versão do produto de desenvolvimento, nome do navegador e a plataforma do dispositivo   
-<img src="https://github.com/aguinaldomavenda0/whoisnavigator/blob/9d1f298bd2cad26fc6f52b86ab10d47d9dd09b94/apresentation/reponse_json.PNG"/>
+<img src="https://github.com/aguinaldomavenda0/whoisnavigator/blob/db1dd8a4ab07da4f25bb0201be5c330ec74a071d/apresentation/reponse_json.PNG"/>
 
 [Caso deseja ver o resultado](http://mavendeveloper.my-style.in/navigator/navigator.php)
 
